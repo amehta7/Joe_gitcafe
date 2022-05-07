@@ -1,5 +1,6 @@
 # Coffee :
 
+- [new signature_latte](recipes/signature_latte.txt)
 - [ESPRESSO AMERICANO](recipes/Coffee.txt)
 - [CAFFÈ LATTE](recipes/Coffee.txt)
 - [CAFFÈ MOCHA](recipes/Coffee.txt)
